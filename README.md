@@ -7,5 +7,7 @@ My first repository
 | Timmy Turner |
 | Wanda       |
 | Cosmo       |
+| Poof       |
+| Vicky       |
 | Mom         |
 | Dad         |
